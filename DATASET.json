@@ -1,0 +1,1595 @@
+{
+    "categories": [
+      {
+        "category": "Web Tasarım ve E-Ticaret",
+        "questions": [
+          {
+            "question": "Bazı Web Tasarım Firmaları Ömür Boyu Ücretsiz Olduğunu Söylüyor, bu sitede de Ücretsiz mi?",
+            "answer": "Firmamız bazı hizmetlerimizi ömür boyu ücretsiz olarak sunmaktadır. Detaylı bilgi için kampanyalarımızı inceleyebilirsiniz."
+          },
+          {
+            "question": "Paket Web Yazılımlarınızın Fiyatları Nelerdir?",
+            "answer": "Paket fiyatlarımız, seçilen hizmete bağlı olarak değişmektedir. Detayları için fiyatlar sayfamızı ziyaret edebilirsiniz."
+          },
+          {
+            "question": "Kurulum Süreci ve Değişiklikler konusunda Sizden Nasıl Destek Alabiliriz?",
+            "answer": "Kurulum ve değişiklikler konusunda 7/24 teknik destek sağlıyoruz. Müşteri hizmetlerimizden bize ulaşabilirsiniz."
+          },
+          {
+            "question": "İnternet Siteleri Hakkında Bilgim Yok, Web Sitemi Kendim Yönetebilir miyim?",
+            "answer": "Kolay kullanımlı arayüzlerimiz sayesinde, teknik bilgiye sahip olmadan web sitenizi yönetebilirsiniz."
+          },
+          {
+            "question": "Satın Alım Gerçekleştirildikten Ne Kadar Sonra Web Sitemiz Aktif Edilmektedir?",
+            "answer": "Satın alma işlemi tamamlandıktan sonra genellikle 24 saat içinde sitenizi aktif ediyoruz."
+          },
+          {
+            "question": "Şu Anda Aktif Olarak Kullanılmış Olduğumuz Bir Web Sitemiz Var. Sizin Alt Yapınıza Geçebilir miyiz ve Mevcut Verileri Aktarabiliyor musunuz?",
+            "answer": "Evet, mevcut verilerinizi altyapımıza aktarabilir ve sorunsuz bir geçiş sağlayabiliriz."
+          },
+          {
+            "question": "Birden Fazla Alan Adı / Domain Kullanabilir miyiz?",
+            "answer": "Evet, birden fazla alan adını sistemimize entegre edebilirsiniz."
+          },
+          {
+            "question": "E-Ticaret Paket Yazılım Sisteminiz Hangi Ödeme Seçeneklerini Desteklemektedir?",
+            "answer": "E-Ticaret sistemimiz kredi kartı, banka kartı, havale ve kapıda ödeme gibi çeşitli ödeme seçeneklerini desteklemektedir."
+          },
+          {
+            "question": "Web Paketleriniz Google, Yandex vb. Arama Motorları İle Uyumlu mudur?",
+            "answer": "Evet, tüm web paketlerimiz SEO uyumludur ve Google, Yandex gibi arama motorlarında daha iyi görünürlük sağlar."
+          },
+          {
+            "question": "Kendime/Şirketimize Ait E-posta Hesabımız Olacak mı?",
+            "answer": "Evet, her web paketiyle birlikte size özel e-posta adresleri sağlanmaktadır."
+          }
+        ]
+      },
+      {
+        "category": "Telekom Hizmetleri",
+        "questions": [
+          {
+            "question": "Dakika & SMS & İnternet Kalan Miktarımı Nasıl Öğrenirim?",
+            "answer": "Kalan kullanım bilgilerinizi *123# tuşlamasıyla veya mobil uygulamamız üzerinden öğrenebilirsiniz."
+          },
+          {
+            "question": "PIN kodum bloke oldu, ne yapabilirim?",
+            "answer": "PIN kodunuzu 3 defa yanlış girmeniz durumunda PUK kodunuzu kullanarak blokeyi kaldırabilirsiniz. PUK kodunuzu mobil uygulamadan veya müşteri hizmetlerinden öğrenebilirsiniz."
+          },
+          {
+            "question": "Hat Devir İşlemini nasıl yapabilirim?",
+            "answer": "Hat devir işlemi için nüfus cüzdanınızla birlikte herhangi bir bayimize başvurabilirsiniz."
+          },
+          {
+            "question": "Mobil Telefon Numaramı nasıl değiştirebilirim?",
+            "answer": "Mobil telefon numaranızı değiştirmek için müşteri hizmetlerimize başvurabilirsiniz."
+          },
+          {
+            "question": "Faturalı Uluslararası Arama ve Standart Ücretleri hakkında bilgilendirme yapar mısınız?",
+            "answer": "Faturalı hatlar için uluslararası arama ücretleri, arama yapılan ülkeye göre değişiklik göstermektedir. Detaylı bilgi için müşteri hizmetlerimize ulaşabilirsiniz."
+          },
+          {
+            "question": "Hattıma Nasıl TL Yüklerim?",
+            "answer": "TL yüklemek için mobil uygulamamız, online işlem merkezimiz veya bayilerimizi kullanabilirsiniz."
+          },
+          {
+            "question": "Tarife değişikliği yaptığımda nasıl ücretlendirilirim?",
+            "answer": "Tarife değişiklikleri genellikle ücretsizdir, ancak bazı özel tarifelerde küçük bir ücret alınabilir."
+          }
+        ]
+      },
+      {
+        "category": "Eğitim Hizmetleri",
+        "questions": [
+          {
+            "question": "Online derslere nasıl erişebilirim?",
+            "answer": "Online derslere giriş yapmak için kullanıcı adı ve şifrenizle eğitim portalımıza giriş yapabilirsiniz. Teknik destek gerekirse bizimle iletişime geçin."
+          },
+          {
+            "question": "Sertifikalarımı nasıl alabilirim?",
+            "answer": "Başarıyla tamamlanan kursların sertifikalarını, öğrenci panelinizdeki 'Sertifikalarım' bölümünden indirebilirsiniz."
+          },
+          {
+            "question": "Canlı dersler hangi platform üzerinden yapılmaktadır?",
+            "answer": "Canlı derslerimiz Zoom, Microsoft Teams veya Google Meet gibi platformlar üzerinden gerçekleştirilmektedir. Bağlantı bilgileri ders takviminizde belirtilmiştir."
+          },
+          {
+            "question": "Kurs süresi bittikten sonra materyallere erişebilir miyim?",
+            "answer": "Evet, kurs süresi bittikten sonra 6 ay boyunca tüm materyallere erişim hakkınız devam eder."
+          },
+          {
+            "question": "Ödememi taksitlendirebilir miyim?",
+            "answer": "Evet, kredi kartıyla yapılan ödemelerde 3 taksite kadar seçenek sunuyoruz."
+          }
+        ]
+      },
+      {
+        "category": "Sağlık Hizmetleri",
+        "questions": [
+          {
+            "question": "Randevu almak için hangi bilgileri sağlamalıyım?",
+            "answer": "Randevu alırken adınız, soyadınız, doğum tarihiniz ve iletişim bilgileriniz gereklidir."
+          },
+          {
+            "question": "Sağlık sigortam hangi hizmetleri kapsıyor?",
+            "answer": "Sağlık sigortanızın kapsadığı hizmetler için sigorta poliçenizi kontrol edebilir veya müşteri temsilcimizle iletişime geçebilirsiniz."
+          },
+          {
+            "question": "Check-up paketleriniz nelerdir?",
+            "answer": "Check-up paketlerimiz yaş gruplarına ve ihtiyaçlara göre düzenlenmiştir. Detaylar için web sitemizi ziyaret edebilirsiniz."
+          },
+          {
+            "question": "Laboratuvar sonuçlarını nasıl öğrenebilirim?",
+            "answer": "Laboratuvar sonuçlarını online portalımızdan veya hastanemizi ziyaret ederek öğrenebilirsiniz."
+          },
+          {
+            "question": "Acil servis hizmetleriniz 7/24 açık mı?",
+            "answer": "Evet, acil servisimiz haftanın her günü 24 saat hizmet vermektedir."
+          }
+        ]
+      },
+      {
+        "category": "Ekonomi ve Finans",
+        "questions": [
+          {
+            "question": "Kredi başvurusunu nasıl yapabilirim?",
+            "answer": "Kredi başvurularınızı şubelerimizden, mobil uygulamamızdan veya internet sitemizden gerçekleştirebilirsiniz."
+          },
+          {
+            "question": "Yatırım hesaplarımın getirilerini nasıl takip edebilirim?",
+            "answer": "Yatırım getirilerinizi mobil uygulama veya internet bankacılığı üzerinden takip edebilirsiniz."
+          },
+          {
+            "question": "Kredi kartım için nasıl limit artırımı talep edebilirim?",
+            "answer": "Kredi kartı limit artırımı talebinizi mobil uygulamadan veya müşteri hizmetleri üzerinden iletebilirsiniz."
+          },
+          {
+            "question": "Birikim hesaplarınızın faiz oranları nedir?",
+            "answer": "Birikim hesaplarımıza uygulanan faiz oranları günlük olarak değişiklik gösterebilir. Detaylı bilgi için şubelerimize ulaşabilirsiniz."
+          },
+          {
+            "question": "Altın hesabı nasıl açabilirim?",
+            "answer": "Altın hesabınızı mobil veya internet bankacılığı üzerinden birkaç dakika içinde açabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Mimarlık ve İnşaat",
+        "questions": [
+          {
+            "question": "Proje tasarım süreçleriniz nasıl ilerliyor?",
+            "answer": "Proje tasarım süreçlerimiz müşteri ihtiyaçları doğrultusunda, konsept geliştirme ve detaylandırma aşamalarını kapsar."
+          },
+          {
+            "question": "Anahtar teslim projelerde süre ne kadar?",
+            "answer": "Projenin büyüklüğüne bağlı olarak anahtar teslim sürelerimiz 6 ay ile 18 ay arasında değişiklik göstermektedir."
+          },
+          {
+            "question": "Hangi tür yapılarda hizmet veriyorsunuz?",
+            "answer": "Konut, ticari yapılar, endüstriyel tesisler ve kamu binaları gibi birçok farklı yapıda hizmet vermekteyiz."
+          },
+          {
+            "question": "Malzeme seçiminde destek sağlıyor musunuz?",
+            "answer": "Evet, malzeme seçimlerinde müşterilerimize danışmanlık hizmeti sunuyoruz."
+          },
+          {
+            "question": "Proje maliyet hesaplamasını nasıl yapıyorsunuz?",
+            "answer": "Proje maliyeti, müşteri talepleri, kullanılan malzeme türü ve metrekare üzerinden hesaplanmaktadır."
+          }
+        ]
+      },
+      {
+        "category": "Ticaret ve Alışveriş",
+        "questions": [
+          {
+            "question": "İade politikalarınız nelerdir?",
+            "answer": "Ürünlerimizi 30 gün içerisinde koşulsuz olarak iade edebilirsiniz. İade süreci için müşteri hizmetlerimizle iletişime geçin."
+          },
+          {
+            "question": "Hangi ödeme yöntemlerini kabul ediyorsunuz?",
+            "answer": "Kredi kartı, banka kartı, havale ve kapıda ödeme yöntemlerini kabul ediyoruz."
+          },
+          {
+            "question": "Siparişimi nasıl takip edebilirim?",
+            "answer": "Siparişinizi, sipariş numaranız ile web sitemizden veya mobil uygulamamızdan takip edebilirsiniz."
+          },
+          {
+            "question": "Hediye paketi seçeneğiniz var mı?",
+            "answer": "Evet, sipariş sırasında hediye paketi seçeneğini işaretleyebilirsiniz."
+          },
+          {
+            "question": "Ürünleriniz garantili mi?",
+            "answer": "Evet, tüm ürünlerimiz üretici garantisi kapsamındadır."
+          }
+        ]
+    },
+    {
+        "category": "Kargo Hizmetleri",
+        "questions": [
+          {
+            "question": "Kargom ne zaman gelir?",
+            "answer": "Kargonuzun tahmini teslimat süresi SMS veya e-posta ile bildirilmektedir. Ayrıca kargo takip numaranızı kullanarak detaylı bilgi alabilirsiniz."
+          },
+          {
+            "question": "Adresimden, evimden kargo aldırmak istiyorum. Ne yapmalıyım?",
+            "answer": "Web sitemizde veya mobil uygulamamızda bulunan 'Kurye Çağır' seçeneğini kullanabilirsiniz."
+          },
+          {
+            "question": "Kargo fiyat hesaplamasını nasıl yapıyorsunuz?",
+            "answer": "Kargo fiyatı, paket boyutu, ağırlığı ve gönderim mesafesine bağlı olarak hesaplanmaktadır."
+          },
+          {
+            "question": "Kargomu teslim alma esnasında kontrol edebilir miyim?",
+            "answer": "Evet, teslim alma esnasında kargonuzu kontrol edebilirsiniz. Herhangi bir hasar durumunda kargo görevlisine tutanak tutturunuz."
+          },
+          {
+            "question": "Kargo gönderirken ve teslim alırken kimlik göstermeli miyim?",
+            "answer": "Evet, gönderim ve teslimat işlemlerinde kimlik ibrazı zorunludur."
+          },
+          {
+            "question": "Kargom nerede, nasıl öğrenebilirim?",
+            "answer": "Kargo takip numaranızı kullanarak web sitemiz veya mobil uygulamamız üzerinden kargonuzun durumunu öğrenebilirsiniz."
+          },
+          {
+            "question": "Yurt dışına kargo gönderebilir miyim?",
+            "answer": "Evet, yurt dışına kargo gönderim hizmetimiz bulunmaktadır. Gönderim ücretleri ve detaylar için müşteri hizmetlerimize ulaşabilirsiniz."
+          }
+        ]
+      },
+      {
+            "category": "Turizm ve Seyahat",
+            "questions": [
+              {
+                "question": "Yurt dışı turlarınız hangi ülkeleri kapsıyor?",
+                "answer": "Yurt dışı turlarımız; Avrupa, Asya, Amerika ve Afrika kıtalarındaki birçok ülkeyi kapsamaktadır. Detaylar için web sitemizdeki tur programlarını inceleyebilirsiniz."
+              },
+              {
+                "question": "Otel rezervasyonumu nasıl iptal edebilirim?",
+                "answer": "Otel rezervasyonunuzu web sitemizdeki 'Rezervasyonlarım' bölümünden iptal edebilir veya müşteri hizmetlerimizle iletişime geçebilirsiniz."
+              },
+              {
+                "question": "Uçak biletimde değişiklik yapabilir miyim?",
+                "answer": "Evet, uçak biletinizde değişiklik yapabilirsiniz. Ancak değişiklik için havayolu şirketinin belirttiği ücretler geçerli olacaktır."
+              },
+              {
+                "question": "Vize işlemleri için destek veriyor musunuz?",
+                "answer": "Evet, vize işlemlerinizde gerekli belgeler ve başvuru süreçleri konusunda danışmanlık hizmeti sunuyoruz."
+              },
+              {
+                "question": "Araç kiralama seçenekleriniz nelerdir?",
+                "answer": "Ekonomik, SUV, lüks ve minibüs kategorilerinde araç kiralama seçeneklerimiz mevcuttur. Online olarak rezervasyon yapabilirsiniz."
+              }
+            ]
+          },
+          {
+            "category": "Teknoloji ve Elektronik",
+            "questions": [
+              {
+                "question": "Garantili bir ürünü nasıl tamir ettirebilirim?",
+                "answer": "Garanti kapsamındaki ürününüzü faturasıyla birlikte yetkili servis noktalarımıza ulaştırabilirsiniz."
+              },
+              {
+                "question": "Yeni çıkan telefon modelleri stokta var mı?",
+                "answer": "Yeni çıkan modellerin stok durumunu öğrenmek için web sitemizi ziyaret edebilir veya mağazalarımızı arayabilirsiniz."
+              },
+              {
+                "question": "Hangi markaların ürünlerini satıyorsunuz?",
+                "answer": "Samsung, Apple, LG, Sony, HP, Dell gibi dünya çapında tanınmış markaların ürünlerini satıyoruz."
+              },
+              {
+                "question": "Akıllı televizyonumu internete nasıl bağlarım?",
+                "answer": "Akıllı televizyonunuzu Wi-Fi ayarlarına giderek mevcut kablosuz ağı seçip şifreyi girerek internete bağlayabilirsiniz."
+              },
+              {
+                "question": "Bir ürün satın aldıktan sonra iade edebilir miyim?",
+                "answer": "Evet, ürününüzü satın aldıktan sonra 14 gün içinde iade edebilirsiniz. İade koşulları için lütfen web sitemizi ziyaret edin."
+              }
+            ]
+          },
+          {
+            "category": "Hukuk ve Danışmanlık",
+            "questions": [
+              {
+                "question": "Hukuki danışmanlık hizmetleriniz nelerdir?",
+                "answer": "Şirketler hukuku, aile hukuku, iş hukuku ve gayrimenkul hukuku gibi birçok alanda hukuki danışmanlık sağlıyoruz."
+              },
+              {
+                "question": "Dava açmadan önce nelere dikkat etmeliyim?",
+                "answer": "Dava açmadan önce haklarınızı ve sorumluluklarınızı iyi anlamak için uzman bir avukata danışmanız önerilir."
+              },
+              {
+                "question": "Sözleşme hazırlama hizmeti veriyor musunuz?",
+                "answer": "Evet, profesyonel sözleşme hazırlama ve inceleme hizmeti sunuyoruz."
+              },
+              {
+                "question": "Avukatlık ücretleri nasıl belirleniyor?",
+                "answer": "Avukatlık ücretleri, dava türüne, zorluğuna ve hizmetin kapsamına bağlı olarak değişmektedir."
+              },
+              {
+                "question": "Noter işlemlerinde danışmanlık hizmetiniz var mı?",
+                "answer": "Evet, noter işlemleri ve belgelerinizin hazırlanması konusunda danışmanlık sağlıyoruz."
+              }
+            ]
+          },
+          {
+            "category": "Yemek ve Restoran",
+            "questions": [
+              {
+                "question": "Vejetaryen menüleriniz var mı?",
+                "answer": "Evet, restoranlarımızda vejetaryen ve vegan seçenekler içeren özel menülerimiz bulunmaktadır."
+              },
+              {
+                "question": "Online sipariş verebilir miyim?",
+                "answer": "Evet, online sipariş sistemimizi kullanarak yemek siparişinizi kolayca verebilirsiniz."
+              },
+              {
+                "question": "Özel günler için rezervasyon yapabilir miyim?",
+                "answer": "Evet, doğum günü, yıldönümü gibi özel günleriniz için önceden rezervasyon yapabilirsiniz."
+              },
+              {
+                "question": "Tatlı seçenekleriniz nelerdir?",
+                "answer": "Tatlı menümüz günlük taze olarak hazırlanmakta olup; cheesecake, tiramisu, sütlaç gibi pek çok seçeneği içermektedir."
+              },
+              {
+                "question": "Paket servis ücretli mi?",
+                "answer": "Paket servis belirli bir tutarın üzerindeki siparişler için ücretsizdir. Detaylı bilgi için web sitemizi ziyaret edebilirsiniz."
+              }
+            ]
+          },
+          {
+            "category": "Otomotiv ve Araç Servisleri",
+            "questions": [
+              {
+                "question": "Araç bakım randevusunu nasıl alabilirim?",
+                "answer": "Araç bakım randevularınızı web sitemizden veya müşteri hizmetlerimizden alabilirsiniz."
+              },
+              {
+                "question": "Yedek parça garantisi sunuyor musunuz?",
+                "answer": "Evet, orijinal yedek parçalarımızda 1 yıl garanti sunuyoruz."
+              },
+              {
+                "question": "Hangi marka araçlara hizmet veriyorsunuz?",
+                "answer": "Tüm yerli ve yabancı otomobil markalarına hizmet vermekteyiz."
+              },
+              {
+                "question": "Lastik değişimi yapıyor musunuz?",
+                "answer": "Evet, sezonluk lastik değişim hizmetimiz bulunmaktadır."
+              },
+              {
+                "question": "Araç muayene hizmetiniz var mı?",
+                "answer": "Evet, araç muayene öncesi kontrol ve hazırlık hizmeti sunuyoruz."
+              }
+            ]
+      },     
+      {
+        "category": "Ev Dekorasyonu ve Mobilya",
+        "questions": [
+          {
+            "question": "Hangi tür mobilyalar için montaj hizmeti sunuyorsunuz?",
+            "answer": "Tüm mobilya kategorilerimiz için profesyonel montaj hizmeti sağlıyoruz. Detaylı bilgi için müşteri temsilcimize ulaşabilirsiniz."
+          },
+          {
+            "question": "Mobilyalarınızın garanti süresi ne kadar?",
+            "answer": "Mobilyalarımızın garanti süresi ürün türüne göre değişmekle birlikte genellikle 2 yıl ile 5 yıl arasında değişmektedir."
+          },
+          {
+            "question": "Özel tasarım mobilya siparişi verebilir miyim?",
+            "answer": "Evet, özel tasarım mobilyalarınızı ölçülerinize ve tercihleriniz doğrultusunda hazırlıyoruz."
+          },
+          {
+            "question": "Teslimat süresi ne kadar?",
+            "answer": "Teslimat süremiz stok durumuna bağlı olarak 7-15 iş günü arasında değişmektedir."
+          },
+          {
+            "question": "Hangi malzemelerden mobilyalar üretiyorsunuz?",
+            "answer": "Ahşap, metal, cam ve diğer dayanıklı malzemelerden mobilyalar üretiyoruz."
+          }
+        ]
+      },
+      {
+        "category": "Spor ve Fitness",
+        "questions": [
+          {
+            "question": "Hangi tür spor ekipmanlarını satıyorsunuz?",
+            "answer": "Yoga matları, koşu bantları, ağırlık setleri ve daha pek çok spor ekipmanını mağazalarımızdan veya online olarak satın alabilirsiniz."
+          },
+          {
+            "question": "Fitness üyeliği için hangi paketler mevcut?",
+            "answer": "Aylık, 6 aylık ve yıllık üyelik paketlerimiz bulunmaktadır. Detaylar için şubelerimizi ziyaret edebilirsiniz."
+          },
+          {
+            "question": "Kişisel antrenör hizmeti sunuyor musunuz?",
+            "answer": "Evet, sertifikalı kişisel antrenörlerimizle birebir çalışma imkanı sunuyoruz."
+          },
+          {
+            "question": "Spor salonunuzda hangi saatlerde hizmet veriyorsunuz?",
+            "answer": "Spor salonumuz haftanın 7 günü, sabah 06:00 ile gece 23:00 saatleri arasında hizmet vermektedir."
+          },
+          {
+            "question": "Hangi yaş gruplarına yönelik fitness programlarınız var?",
+            "answer": "Çocuklar, gençler, yetişkinler ve ileri yaş grupları için özel fitness programlarımız bulunmaktadır."
+          }
+        ]
+      },
+      {
+        "category": "Çevre ve Doğa",
+        "questions": [
+          {
+            "question": "Geri dönüşüm kutuları nerede bulunabilir?",
+            "answer": "Geri dönüşüm kutuları tüm belediye binalarında ve belirli sokak noktalarında bulunmaktadır."
+          },
+          {
+            "question": "Hangi materyaller geri dönüştürülebilir?",
+            "answer": "Kağıt, plastik, cam, metal ve elektronik atıklar geri dönüştürülebilir."
+          },
+          {
+            "question": "Ağaç dikim etkinlikleriniz ne zaman düzenleniyor?",
+            "answer": "Ağaç dikim etkinliklerimiz her yıl Mart ve Kasım aylarında organize edilmektedir."
+          },
+          {
+            "question": "Doğal yaşam parklarınız hangi saatlerde açık?",
+            "answer": "Doğal yaşam parklarımız sabah 08:00 ile akşam 20:00 saatleri arasında ziyaret edilebilir."
+          },
+          {
+            "question": "Su tasarrufu için önerileriniz nelerdir?",
+            "answer": "Muslukları gereksiz yere açık bırakmamak, düşük su tüketimli cihazlar kullanmak ve damlayan muslukları tamir ettirmek tasarruf için önemlidir."
+          }
+        ]
+      },
+      {
+        "category": "Fotoğrafçılık ve Görsel Sanatlar",
+        "questions": [
+          {
+            "question": "Fotoğraf çekim kurslarınız var mı?",
+            "answer": "Evet, başlangıç ve ileri düzey fotoğrafçılık kurslarımız mevcuttur."
+          },
+          {
+            "question": "Stüdyo kiralama hizmeti sunuyor musunuz?",
+            "answer": "Evet, profesyonel ekipmanlarla donatılmış stüdyolarımızı kiralayabilirsiniz."
+          },
+          {
+            "question": "Hangi fotoğraf makinelerini öneriyorsunuz?",
+            "answer": "Amatörler için DSLR, profesyoneller için aynasız makineler öneriyoruz."
+          },
+          {
+            "question": "Fotoğraflarımı baskıya hazırlamak için hangi yazılımları kullanmalıyım?",
+            "answer": "Adobe Photoshop ve Lightroom gibi yazılımları öneririz."
+          },
+          {
+            "question": "Sanat galerinizde sergi açabilir miyim?",
+            "answer": "Evet, başvuru sürecinden sonra sanat galerimizde sergi açabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Emlak ve Gayrimenkul",
+        "questions": [
+          {
+            "question": "Kiralık dairelerinizi nasıl görebilirim?",
+            "answer": "Web sitemizdeki ilanlar sekmesinden kiralık dairelerimizi görüntüleyebilirsiniz."
+          },
+          {
+            "question": "Tapu işlemleri için danışmanlık hizmeti sunuyor musunuz?",
+            "answer": "Evet, tapu işlemleri için uzman danışmanlarımız hizmetinizdedir."
+          },
+          {
+            "question": "Emlak fiyatlarını belirlerken hangi kriterleri kullanıyorsunuz?",
+            "answer": "Konum, bina yaşı, büyüklük ve piyasa durumu gibi kriterler değerlendirilmektedir."
+          },
+          {
+            "question": "Satışa çıkan yeni projeler hakkında nasıl bilgi alabilirim?",
+            "answer": "E-posta bültenimize abone olarak yeni projeler hakkında bilgi alabilirsiniz."
+          },
+          {
+            "question": "Yabancılara konut satışında destek sağlıyor musunuz?",
+            "answer": "Evet, yabancı müşterilerimize satış sürecinde kapsamlı destek sunuyoruz."
+          }
+        ]
+      },
+      {
+        "category": "Enerji ve Çevre",
+        "questions": [
+          {
+            "question": "Güneş paneli kurulum hizmetiniz var mı?",
+            "answer": "Evet, ev ve işletmeler için güneş paneli kurulum hizmeti sunuyoruz."
+          },
+          {
+            "question": "Elektrik tasarrufu için önerileriniz nelerdir?",
+            "answer": "Enerji tasarruflu ampuller kullanmak ve gereksiz cihazları kapatmak önerilerimizden bazılarıdır."
+          },
+          {
+            "question": "Geri dönüşüm hizmetiniz nasıl çalışıyor?",
+            "answer": "Geri dönüşüm kutularımızdan atıkları toplayarak çevre dostu geri dönüşüm tesislerine ulaştırıyoruz."
+          },
+          {
+            "question": "Rüzgar enerjisi projelerinize nasıl katılabilirim?",
+            "answer": "Projelerimize katılmak için başvuru formumuzu doldurabilirsiniz."
+          },
+          {
+            "question": "Karbon ayak izimi nasıl azaltabilirim?",
+            "answer": "Toplu taşıma kullanmak, enerji verimli cihazlar tercih etmek gibi yöntemler öneririz."
+          }
+        ]
+      },
+      {
+        "category": "Kişisel Bakım ve Güzellik",
+        "questions": [
+          {
+            "question": "Cilt bakımı için hangi ürünleri öneriyorsunuz?",
+            "answer": "Cilt tipinize uygun doğal içerikli ürünlerimizi öneriyoruz."
+          },
+          {
+            "question": "Kuaför hizmetleriniz için randevu nasıl alabilirim?",
+            "answer": "Online randevu sistemi veya telefonla kolayca randevu alabilirsiniz."
+          },
+          {
+            "question": "Manikür ve pedikür hizmetlerinizin fiyatları nedir?",
+            "answer": "Hizmet fiyatlarımız için web sitemizdeki fiyat listemizi inceleyebilirsiniz."
+          },
+          {
+            "question": "Saç bakımı için doğal ürünleriniz var mı?",
+            "answer": "Evet, tamamen doğal içeriklerden oluşan saç bakım ürünlerimiz mevcuttur."
+          },
+          {
+            "question": "Güzellik atölyelerine nasıl katılabilirim?",
+            "answer": "Atölyelerimize katılmak için web sitemizdeki kayıt formunu doldurabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Yazılım ve Uygulama Geliştirme",
+        "questions": [
+          {
+            "question": "Yazılım geliştirme kurslarınız hangi seviyelerde?",
+            "answer": "Başlangıç, orta ve ileri düzey yazılım geliştirme kurslarımız bulunmaktadır."
+          },
+          {
+            "question": "Hangi programlama dillerini öğretiyorsunuz?",
+            "answer": "Python, Java, C++, JavaScript ve daha birçok dil öğretiyoruz."
+          },
+          {
+            "question": "Uygulama geliştirme için hangi araçları öneriyorsunuz?",
+            "answer": "Android Studio, Xcode ve React Native gibi araçları öneriyoruz."
+          },
+          {
+            "question": "Yazılım projelerinizde hangi metodolojiyi kullanıyorsunuz?",
+            "answer": "Agile, Scrum ve Kanban gibi metodolojiler kullanıyoruz."
+          },
+          {
+            "question": "SaaS projelerine nasıl destek oluyorsunuz?",
+            "answer": "Prototipleme, geliştirme ve bulut altyapısı kurulumunda destek sağlıyoruz."
+          }
+        ]
+      },
+      {
+        "category": "Kültür ve Tarih",
+        "questions": [
+          {
+            "question": "Rehberli tarih turlarına nasıl katılabilirim?",
+            "answer": "Web sitemizden turlarımıza kayıt yaptırabilirsiniz."
+          },
+          {
+            "question": "Müze rehberlik hizmetiniz ücretli mi?",
+            "answer": "Rehberlik hizmetimiz giriş ücretine dahildir, ek bir ücret talep edilmez."
+          },
+          {
+            "question": "Tarihi eser restorasyonu projeleriniz nelerdir?",
+            "answer": "Osmanlı dönemine ait eserlerin restorasyon projeleri üzerinde çalışıyoruz."
+          },
+          {
+            "question": "Tarih seminerlerinize nasıl kayıt olabilirim?",
+            "answer": "Web sitemizdeki etkinlikler sekmesinden kayıt yapabilirsiniz."
+          },
+          {
+            "question": "Kültürel etkinlikler için biletler nereden alınabilir?",
+            "answer": "Etkinlik biletlerinizi web sitemizden veya satış noktalarımızdan temin edebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Uzay ve Havacılık",
+        "questions": [
+          {
+            "question": "Uzay kampınıza nasıl katılabilirim?",
+            "answer": "Uzay kampımıza web sitemizdeki başvuru formunu doldurarak katılabilirsiniz."
+          },
+          {
+            "question": "Hangi teleskop modellerini öneriyorsunuz?",
+            "answer": "Başlangıç seviyesindekiler için refraktör teleskoplar, ileri seviyeler içinse yansıtıcı teleskoplar önerilir."
+          },
+          {
+            "question": "Uzay gözlemleri için en iyi zamanlar hangileridir?",
+            "answer": "Ayın olmadığı karanlık geceler ve açık havalar gözlem için idealdir."
+          },
+          {
+            "question": "Astronot olmak için hangi şartlar gereklidir?",
+            "answer": "Astronot olmak için mühendislik, bilim veya matematik alanlarında eğitim almış olmak ve fiziksel dayanıklılık testlerini geçmek gereklidir."
+          },
+          {
+            "question": "Uydu fırlatma projelerine katılabilir miyim?",
+            "answer": "Evet, eğitim ve sertifikasyon programlarına katılarak projelere dahil olabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Moda ve Tekstil",
+        "questions": [
+          {
+            "question": "En popüler moda trendleri nelerdir?",
+            "answer": "Bu sezon pastel tonlar ve vintage tarzlar oldukça popüler."
+          },
+          {
+            "question": "Kumaş türleri hakkında bilgi alabilir miyim?",
+            "answer": "Pamuk, polyester, ipek ve keten gibi kumaş türleri en sık kullanılanlardır. Detaylı bilgi için rehberimize göz atabilirsiniz."
+          },
+          {
+            "question": "Özel dikim hizmeti sunuyor musunuz?",
+            "answer": "Evet, özel dikim hizmetimiz mevcut. Randevu almak için bizimle iletişime geçebilirsiniz."
+          },
+          {
+            "question": "Sürdürülebilir moda ürünleriniz nelerdir?",
+            "answer": "Geri dönüştürülmüş malzemelerden üretilmiş giysilerimiz sürdürülebilir moda koleksiyonumuzda bulunmaktadır."
+          },
+          {
+            "question": "Online stil danışmanlığı hizmetiniz var mı?",
+            "answer": "Evet, online stil danışmanlığı hizmeti sunuyoruz. Detaylar için web sitemizi ziyaret edebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Kitap ve Yayıncılık",
+        "questions": [
+          {
+            "question": "Yeni çıkan kitaplarınızı nereden takip edebilirim?",
+            "answer": "Yeni çıkan kitaplarımızı web sitemizdeki 'Yeni Çıkanlar' bölümünden takip edebilirsiniz."
+          },
+          {
+            "question": "E-kitap indirme seçenekleriniz nelerdir?",
+            "answer": "E-kitaplarımızı PDF ve ePub formatlarında indirebilirsiniz."
+          },
+          {
+            "question": "Hangi tür kitap kulüpleri mevcut?",
+            "answer": "Klasikler, bilim kurgu, kişisel gelişim ve çocuk kitapları kulüplerimiz bulunmaktadır."
+          },
+          {
+            "question": "Yayıncılık kursları düzenliyor musunuz?",
+            "answer": "Evet, her yıl iki kez yazarlık ve yayıncılık kursları düzenliyoruz."
+          },
+          {
+            "question": "Kütüphanenizden nasıl kitap ödünç alabilirim?",
+            "answer": "Kütüphane üyeliği oluşturarak kitap ödünç alabilirsiniz. Üyelik için kimlik belgeniz yeterlidir."
+          }
+        ]
+      },
+      {
+        "category": "Müzik ve Eğlence",
+        "questions": [
+          {
+            "question": "Konser biletlerinizi nasıl satın alabilirim?",
+            "answer": "Konser biletlerimizi online mağazamızdan veya fiziksel mağazalarımızdan temin edebilirsiniz."
+          },
+          {
+            "question": "Müzik atölyelerine kimler katılabilir?",
+            "answer": "Her yaş grubundan katılımcılar müzik atölyelerimize katılabilir."
+          },
+          {
+            "question": "Hangi tür müzik aletlerini satıyorsunuz?",
+            "answer": "Gitar, piyano, keman, bateri ve birçok farklı enstrüman bulunmaktadır."
+          },
+          {
+            "question": "Çocuklar için özel müzik dersleriniz var mı?",
+            "answer": "Evet, çocuklar için özel olarak hazırlanmış müzik dersleri sunuyoruz."
+          },
+          {
+            "question": "Canlı performanslarınız hangi günlerde yapılıyor?",
+            "answer": "Canlı performanslarımız cuma ve cumartesi akşamları gerçekleşmektedir."
+          }
+        ]
+      },
+      {
+        "category": "Dijital Pazarlama",
+        "questions": [
+          {
+            "question": "SEO hizmeti sunuyor musunuz?",
+            "answer": "Evet, web sitenizin arama motorlarındaki görünürlüğünü artırmak için SEO hizmeti sunuyoruz."
+          },
+          {
+            "question": "Sosyal medya yönetimi paketleriniz nelerdir?",
+            "answer": "Sosyal medya içerik üretimi, hesap yönetimi ve reklam kampanyaları dahil olmak üzere farklı paketlerimiz bulunmaktadır."
+          },
+          {
+            "question": "E-posta pazarlama araçlarınız var mı?",
+            "answer": "Evet, hedef kitlenize ulaşmanız için etkili e-posta pazarlama araçlarımız mevcuttur."
+          },
+          {
+            "question": "Google Ads kampanyalarına nasıl başlarım?",
+            "answer": "Google Ads kampanyaları için adım adım rehberimize web sitemizden ulaşabilirsiniz."
+          },
+          {
+            "question": "Hedef kitle analizi hizmeti veriyor musunuz?",
+            "answer": "Evet, hedef kitlenizi daha iyi anlamanız için detaylı analiz hizmeti sunuyoruz."
+          }
+        ]
+      },
+      {
+        "category": "Enerji ve Çevre Dostu Teknolojiler",
+        "questions": [
+          {
+            "question": "Güneş panelleri kurulum hizmeti sunuyor musunuz?",
+            "answer": "Evet, güneş panelleri satışı ve kurulumu konusunda destek sağlıyoruz."
+          },
+          {
+            "question": "Elektrikli araç şarj istasyonları nerede?",
+            "answer": "Şehir merkezindeki otoparklarda ve alışveriş merkezlerinde şarj istasyonlarımız bulunmaktadır."
+          },
+          {
+            "question": "Enerji tasarrufu için önerileriniz nelerdir?",
+            "answer": "LED ampuller kullanarak, enerji verimli cihazlar seçerek ve gereksiz enerji tüketiminden kaçınarak tasarruf edebilirsiniz."
+          },
+          {
+            "question": "Hangi tür yenilenebilir enerji projeleri destekleniyor?",
+            "answer": "Güneş enerjisi, rüzgar enerjisi ve biyokütle projeleri destek programlarımız kapsamındadır."
+          },
+          {
+            "question": "Karbon ayak izimi nasıl azaltabilirim?",
+            "answer": "Toplu taşıma kullanarak, enerji tasarruflu cihazlar tercih ederek ve geri dönüşüme dikkat ederek karbon ayak izinizi azaltabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Emlak ve Gayrimenkul",
+        "questions": [
+          {
+            "question": "Satılık ev ilanlarını nasıl inceleyebilirim?",
+            "answer": "Web sitemiz üzerinden veya mobil uygulamamızdan tüm ilanlara erişebilirsiniz."
+          },
+          {
+            "question": "Konut kredisi seçenekleriniz nelerdir?",
+            "answer": "Banka iş birliklerimizle uygun faiz oranlarında konut kredisi seçenekleri sunuyoruz."
+          },
+          {
+            "question": "Kiralık ofisleriniz var mı?",
+            "answer": "Evet, ihtiyaçlarınıza uygun kiralık ofislerimiz bulunmaktadır. Detaylı bilgi için bizimle iletişime geçebilirsiniz."
+          },
+          {
+            "question": "Gayrimenkul değerleme hizmeti sunuyor musunuz?",
+            "answer": "Evet, uzman ekibimizle gayrimenkul değerleme hizmeti sunmaktayız."
+          },
+          {
+            "question": "Yeni projeleriniz hangi bölgelerde yer alıyor?",
+            "answer": "Yeni konut ve ticari projelerimiz şehir merkezinde ve gelişen bölgelerde konumlanmaktadır."
+          }
+        ]
+      },
+      {
+        "category": "Oyun ve Eğlence",
+        "questions": [
+          {
+            "question": "Hangi tür oyunlar satıyorsunuz?",
+            "answer": "Strateji, aksiyon, RPG ve simülasyon gibi birçok türde oyun satışı yapıyoruz."
+          },
+          {
+            "question": "Turnuvalar düzenliyor musunuz?",
+            "answer": "Evet, aylık olarak çevrimiçi ve fiziksel oyun turnuvaları düzenliyoruz."
+          },
+          {
+            "question": "Oyun konsolu aksesuarlarınız neler?",
+            "answer": "Konsol kolları, kulaklıklar, oyun standları ve daha fazlasını bulabilirsiniz."
+          },
+          {
+            "question": "Abonelik hizmetleriniz nelerdir?",
+            "answer": "Oyun kütüphanesine erişim sağlayan aylık ve yıllık abonelik hizmetlerimiz bulunmaktadır."
+          },
+          {
+            "question": "Yeni çıkan oyunları nereden takip edebilirim?",
+            "answer": "Web sitemizdeki 'Yeni Çıkanlar' bölümünden ve sosyal medya hesaplarımızdan takip edebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Psikoloji ve Danışmanlık",
+        "questions": [
+          {
+            "question": "Online terapi hizmeti sunuyor musunuz?",
+            "answer": "Evet, lisanslı terapistlerimizle online terapi hizmeti sunuyoruz."
+          },
+          {
+            "question": "Stres yönetimi için hangi teknikleri önerirsiniz?",
+            "answer": "Meditasyon, nefes egzersizleri ve düzenli fiziksel aktivite stres yönetimi için etkili tekniklerdir."
+          },
+          {
+            "question": "Çocuklar için özel psikologlarınız var mı?",
+            "answer": "Evet, çocuklara yönelik uzman psikologlarımız bulunmaktadır."
+          },
+          {
+            "question": "Grup terapisi oturumlarınız hangi günlerde yapılıyor?",
+            "answer": "Grup terapileri her pazartesi ve perşembe günleri düzenlenmektedir."
+          },
+          {
+            "question": "Depresyon belirtilerini nasıl anlayabilirim?",
+            "answer": "Uzun süreli üzüntü, ilgi kaybı ve yorgunluk gibi belirtiler depresyon işaretleri olabilir. Detaylı bilgi için uzmanlarımızdan destek alabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Kültür ve Tarih",
+        "questions": [
+          {
+            "question": "Tarihi eser turlarınız hangi günlerde düzenleniyor?",
+            "answer": "Tarihi eser turlarımız cumartesi ve pazar günleri yapılmaktadır."
+          },
+          {
+            "question": "Arkeolojik kazılara katılabilir miyim?",
+            "answer": "Evet, belirli kriterlere uygun olan bireyler kazılarımıza katılabilir."
+          },
+          {
+            "question": "Müzelerinizde rehberlik hizmeti sunuyor musunuz?",
+            "answer": "Evet, müzelerimizde profesyonel rehberler eşliğinde turlar düzenlenmektedir."
+          },
+          {
+            "question": "Kültürel etkinlik takvimine nasıl ulaşabilirim?",
+            "answer": "Web sitemizden veya sosyal medya hesaplarımızdan etkinlik takvimine erişebilirsiniz."
+          },
+          {
+            "question": "Yerel tarihi nasıl öğrenebilirim?",
+            "answer": "Yerel tarih hakkında bilgi almak için düzenlediğimiz seminerlere katılabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Kişisel Gelişim",
+        "questions": [
+          {
+            "question": "Motivasyonumu nasıl artırabilirim?",
+            "answer": "Kısa vadeli hedefler belirleyerek ve bu hedeflere ulaşmak için kendinizi ödüllendirerek motivasyonunuzu artırabilirsiniz."
+          },
+          {
+            "question": "Zaman yönetimi için hangi teknikleri önerirsiniz?",
+            "answer": "Pomodoro, Eisenhower Matrisi ve günlük planlama gibi yöntemleri öneriyoruz."
+          },
+          {
+            "question": "Hangi kitaplar kişisel gelişim için faydalıdır?",
+            "answer": "Zaman yönetimi, liderlik ve iletişim üzerine yazılmış popüler kitapları öneriyoruz. Öneriler için web sitemizi ziyaret edebilirsiniz."
+          },
+          {
+            "question": "Online seminerler düzenliyor musunuz?",
+            "answer": "Evet, kişisel gelişim konularında düzenli olarak online seminerler düzenliyoruz."
+          },
+          {
+            "question": "Meditasyon yapmayı nasıl öğrenebilirim?",
+            "answer": "Meditasyon atölyelerimize katılarak veya online rehberlerimizden yararlanarak öğrenebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Astroloji ve Spiritüalizm",
+        "questions": [
+          {
+            "question": "Doğum haritamı nasıl çıkarabilirim?",
+            "answer": "Doğum tarihi, saati ve yer bilgilerinizi vererek uzmanlarımızdan doğum haritası hizmeti alabilirsiniz."
+          },
+          {
+            "question": "Burç yorumlarınız ne sıklıkla güncelleniyor?",
+            "answer": "Burç yorumlarımız haftalık ve aylık olarak güncellenmektedir."
+          },
+          {
+            "question": "Meditasyon taşları nasıl kullanılır?",
+            "answer": "Meditasyon taşları, enerjinizi dengelemek için belirli bir niyetle kullanılabilir. Kullanım rehberi için web sitemizi ziyaret edebilirsiniz."
+          },
+          {
+            "question": "Ay döngüleri hayatımı nasıl etkiler?",
+            "answer": "Ay döngülerinin enerjinizi ve ruh halinizi nasıl etkilediği hakkında detaylı bilgiler sunuyoruz."
+          },
+          {
+            "question": "Ruh eşimi nasıl bulabilirim?",
+            "answer": "Spiritüel rehberlik hizmetlerimizle bu konuda size yol gösterebiliriz."
+          }
+        ]
+      },
+      {
+        "category": "Moda ve Tekstil",
+        "questions": [
+          {
+            "question": "Yeni sezon koleksiyonlarınız ne zaman çıkıyor?",
+            "answer": "Yeni sezon koleksiyonlarımız her yılın bahar ve sonbahar aylarında piyasaya çıkmaktadır."
+          },
+          {
+            "question": "Kişiye özel dikim hizmeti sunuyor musunuz?",
+            "answer": "Evet, kişiye özel tasarım ve dikim hizmetlerimiz mevcuttur."
+          },
+          {
+            "question": "Online alışverişlerde iade politikası nedir?",
+            "answer": "İade politikamız kapsamında, ürünler teslim tarihinden itibaren 14 gün içinde iade edilebilir."
+          },
+          {
+            "question": "Sürdürülebilir moda ürünleriniz var mı?",
+            "answer": "Evet, organik pamuktan üretilen ve çevre dostu koleksiyonlarımız mevcuttur."
+          },
+          {
+            "question": "Moda trendleri hakkında nasıl bilgi alabilirim?",
+            "answer": "Moda blogumuzu takip ederek en güncel trendler hakkında bilgi sahibi olabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Astronomi ve Uzay Bilimleri",
+        "questions": [
+          {
+            "question": "Gözlemevini ziyaret etmek için rezervasyon gerekli mi?",
+            "answer": "Evet, ziyaretler için önceden rezervasyon yaptırmanız gereklidir."
+          },
+          {
+            "question": "Astronomi dersleri veriyor musunuz?",
+            "answer": "Evet, başlangıç ve ileri düzey astronomi derslerimiz mevcuttur."
+          },
+          {
+            "question": "Teleskop alırken nelere dikkat etmeliyim?",
+            "answer": "Kullanım amacınıza uygun büyütme kapasitesi ve objektif çapını seçmeniz önemlidir."
+          },
+          {
+            "question": "Yıldız haritalarına nereden ulaşabilirim?",
+            "answer": "Web sitemizden veya mobil uygulamamızdan yıldız haritalarını indirebilirsiniz."
+          },
+          {
+            "question": "Uzay gözlemleri için en uygun zamanlar nelerdir?",
+            "answer": "Yeni ay dönemlerinde ve bulutsuz gecelerde gözlem yapmanız önerilir."
+          }
+        ]
+      },
+      {
+        "category": "Etkinlik Planlama ve Organizasyon",
+        "questions": [
+          {
+            "question": "Düğün organizasyon hizmetleriniz neleri kapsıyor?",
+            "answer": "Dekorasyon, catering, müzik ve fotoğrafçılık hizmetlerini kapsamaktadır."
+          },
+          {
+            "question": "Kurumsal etkinlikler için paketleriniz var mı?",
+            "answer": "Evet, kurumsal etkinlikler için özel paket seçeneklerimiz bulunmaktadır."
+          },
+          {
+            "question": "Etkinlik alanı dekorasyonunda hangi temaları sunuyorsunuz?",
+            "answer": "Klasik, modern, rustik ve bohem temalar sunmaktayız."
+          },
+          {
+            "question": "Doğum günü partisi organizasyonu nasıl yapılır?",
+            "answer": "Tema seçimi, davetli listesi ve catering hizmeti dahil organizasyon yapıyoruz."
+          },
+          {
+            "question": "Organizasyonunuzda özel taleplerimi nasıl belirtebilirim?",
+            "answer": "Özel taleplerinizi rezervasyon sırasında ya da müşteri temsilcimizle iletişime geçerek belirtebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "El Sanatları ve Hobi",
+        "questions": [
+          {
+            "question": "Hobi atölyelerinize nasıl katılabilirim?",
+            "answer": "Atölyelerimize kayıt formunu doldurarak katılabilirsiniz."
+          },
+          {
+            "question": "Ahşap boyama için hangi malzemeleri öneriyorsunuz?",
+            "answer": "Su bazlı boyalar ve kaliteli fırçalar kullanmanızı öneririz."
+          },
+          {
+            "question": "Makrome yapımı için başlangıç seti sunuyor musunuz?",
+            "answer": "Evet, makrome yapımı için başlangıç setlerimiz mevcuttur."
+          },
+          {
+            "question": "Seramik atölyeleriniz hangi günlerde düzenleniyor?",
+            "answer": "Seramik atölyelerimiz haftanın her cumartesi günü düzenlenmektedir."
+          },
+          {
+            "question": "El sanatları ürünlerinizi online satın alabilir miyim?",
+            "answer": "Evet, ürünlerimizi web sitemizden online olarak satın alabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Psikoloji ve Kişisel Gelişim",
+        "questions": [
+          {
+            "question": "Psikoloji seminerlerinizin konuları nelerdir?",
+            "answer": "Stres yönetimi, liderlik becerileri ve pozitif düşünce gibi konuları ele alıyoruz."
+          },
+          {
+            "question": "Bireysel danışmanlık hizmeti sunuyor musunuz?",
+            "answer": "Evet, profesyonel psikologlarımız bireysel danışmanlık hizmeti sunmaktadır."
+          },
+          {
+            "question": "Kişisel gelişim kitaplarınızı nereden satın alabilirim?",
+            "answer": "Kitaplarımızı online mağazamızdan veya anlaşmalı kitapçılardan satın alabilirsiniz."
+          },
+          {
+            "question": "Meditasyon etkinlikleriniz hangi sıklıkla düzenleniyor?",
+            "answer": "Meditasyon etkinliklerimiz haftalık olarak düzenlenmektedir."
+          },
+          {
+            "question": "Online seminerlerinize nasıl katılabilirim?",
+            "answer": "Online seminerlerimize kayıt formunu doldurarak katılabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Oyun ve Eğlence",
+        "questions": [
+          {
+            "question": "Hangi masa oyunlarını öneriyorsunuz?",
+            "answer": "Strateji, aile ve kart oyunları kategorilerinde birçok önerimiz var."
+          },
+          {
+            "question": "Online oyun turnuvalarına nasıl katılabilirim?",
+            "answer": "Turnuvalara web sitemizden kayıt olarak katılabilirsiniz."
+          },
+          {
+            "question": "VR oyunları için ekipman kiralama hizmetiniz var mı?",
+            "answer": "Evet, VR ekipmanlarımızı saatlik veya günlük olarak kiralayabilirsiniz."
+          },
+          {
+            "question": "Aileler için eğlence aktiviteleri sunuyor musunuz?",
+            "answer": "Evet, aileler için interaktif oyun ve atölye aktivitelerimiz bulunmaktadır."
+          },
+          {
+            "question": "Yeni oyun önerileriniz nerede yayınlanıyor?",
+            "answer": "Yeni oyun önerilerimiz blog sayfamızda ve sosyal medya kanallarımızda yayınlanmaktadır."
+          }
+        ]
+      },
+      {
+        "category": "Müzik ve Enstrüman",
+        "questions": [
+          {
+            "question": "Yeni başlayanlar için hangi enstrümanları önerirsiniz?",
+            "answer": "Gitar, piyano ve ukulele yeni başlayanlar için popüler seçeneklerdir."
+          },
+          {
+            "question": "Online müzik dersleriniz var mı?",
+            "answer": "Evet, başlangıç ve ileri seviye için çeşitli online müzik dersleri sunuyoruz."
+          },
+          {
+            "question": "Enstrüman tamiri hizmeti sunuyor musunuz?",
+            "answer": "Evet, gitar, keman ve piyano gibi enstrümanların tamirini yapıyoruz."
+          },
+          {
+            "question": "Konser biletlerini nereden alabilirim?",
+            "answer": "Konser biletlerini web sitemizden veya iş ortaklarımızdan temin edebilirsiniz."
+          },
+          {
+            "question": "Müzik festivalleriniz hangi tarihlerde düzenleniyor?",
+            "answer": "Festival takvimimize web sitemizden ulaşabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Uzay ve Astronomi",
+        "questions": [
+          {
+            "question": "Uzay gözlem etkinlikleri düzenliyor musunuz?",
+            "answer": "Evet, düzenli olarak halka açık uzay gözlem etkinlikleri düzenliyoruz."
+          },
+          {
+            "question": "Bir teleskop alırken nelere dikkat etmeliyim?",
+            "answer": "Bütçenize, gözlem türünüze ve teleskopun büyütme kapasitesine dikkat etmelisiniz."
+          },
+          {
+            "question": "Astronomi kurslarına katılabilir miyim?",
+            "answer": "Evet, hem başlangıç hem de ileri düzey astronomi kurslarımız mevcuttur."
+          },
+          {
+            "question": "Gökyüzü haritasını nasıl kullanabilirim?",
+            "answer": "Gökyüzü haritası kullanımıyla ilgili online rehberimize göz atabilirsiniz."
+          },
+          {
+            "question": "Meteor yağmurlarını ne zaman görebilirim?",
+            "answer": "Yıllık meteor yağmuru takvimimizi web sitemizden inceleyebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Çocuk Gelişimi ve Eğitim",
+        "questions": [
+          {
+            "question": "Çocuğuma hangi yaşta kitap okumaya başlamalıyım?",
+            "answer": "Doğumdan itibaren çocuğunuza kitap okuyabilirsiniz; bu, dil gelişimini destekler."
+          },
+          {
+            "question": "Eğitici oyun önerileriniz var mı?",
+            "answer": "Evet, yaş grubuna uygun eğitici oyun önerilerimizi web sitemizden inceleyebilirsiniz."
+          },
+          {
+            "question": "Çocuklar için yaz kampları düzenliyor musunuz?",
+            "answer": "Evet, yaz dönemlerinde çeşitli temalarda çocuk kampları düzenliyoruz."
+          },
+          {
+            "question": "Okul öncesi eğitim materyallerini nereden bulabilirim?",
+            "answer": "Online mağazamızda geniş bir okul öncesi eğitim materyali yelpazesi bulabilirsiniz."
+          },
+          {
+            "question": "Çocuğumun özel yeteneklerini nasıl geliştirebilirim?",
+            "answer": "Uzmanlarımızla görüşerek çocuğunuzun yeteneklerine uygun kurslara yönlendirme alabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Moda ve Giyim",
+        "questions": [
+          {
+            "question": "Hangi sezon ürünleri satıyorsunuz?",
+            "answer": "Sonbahar/kış ve ilkbahar/yaz koleksiyonlarımızı bulabilirsiniz."
+          },
+          {
+            "question": "Ölçüye göre elbise dikimi yapıyor musunuz?",
+            "answer": "Evet, kişisel ölçülerinize uygun elbise dikimi hizmetimiz bulunmaktadır."
+          },
+          {
+            "question": "Hangi kumaş türleri mevcuttur?",
+            "answer": "Pamuk, keten, ipek ve polyester gibi çeşitli kumaş türlerimiz bulunmaktadır."
+          },
+          {
+            "question": "İndirimli ürünlerinizi nasıl takip edebilirim?",
+            "answer": "İndirimli ürünlerimizi web sitemizdeki 'Fırsatlar' bölümünden takip edebilirsiniz."
+          },
+          {
+            "question": "Online alışverişte iade politikası nedir?",
+            "answer": "Ürünlerimizi 14 gün içinde iade edebilir veya değiştirebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Denizcilik ve Su Sporları",
+        "questions": [
+          {
+            "question": "Yat kiralama hizmeti sunuyor musunuz?",
+            "answer": "Evet, günlük ve haftalık yat kiralama hizmeti sunuyoruz."
+          },
+          {
+            "question": "Dalgıçlık eğitimleri veriyor musunuz?",
+            "answer": "Evet, sertifikalı dalgıçlık kurslarımız mevcuttur."
+          },
+          {
+            "question": "Kano kiralama imkanınız var mı?",
+            "answer": "Evet, sahil bölgelerimizde kano kiralama hizmetimiz bulunmaktadır."
+          },
+          {
+            "question": "Yüzme dersleri hangi yaş gruplarına uygun?",
+            "answer": "Yüzme derslerimiz 4 yaş ve üzeri her yaş grubuna uygundur."
+          },
+          {
+            "question": "Balıkçılık ekipmanları nereden satın alabilirim?",
+            "answer": "Balıkçılık ekipmanlarını online mağazamızdan veya fiziksel mağazalarımızdan temin edebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Tarih ve Arkeoloji",
+        "questions": [
+          {
+            "question": "Tarih dersleriniz hangi seviyelere uygun?",
+            "answer": "Tarih derslerimiz başlangıç, orta ve ileri seviyelere uygun içerikler sunmaktadır."
+          },
+          {
+            "question": "Kazı çalışmalarına katılabilir miyim?",
+            "answer": "Evet, gönüllü programlarımızla kazı çalışmalarına katılabilirsiniz."
+          },
+          {
+            "question": "Arkeolojik müze rehber hizmeti sunuyor musunuz?",
+            "answer": "Evet, müzelerimizde uzman rehberler eşliğinde turlar düzenlenmektedir."
+          },
+          {
+            "question": "Tarihsel belgelere nasıl erişebilirim?",
+            "answer": "Tarihsel belgeler kütüphanemiz ve dijital arşivlerimizde mevcuttur."
+          },
+          {
+            "question": "Tarih seminerleriniz ne zaman düzenleniyor?",
+            "answer": "Tarih seminerlerimiz her ayın ilk Cumartesi günü düzenlenmektedir."
+          }
+        ]
+      },
+      {
+        "category": "Oyun ve Eğlence",
+        "questions": [
+          {
+            "question": "En popüler masa oyunlarınız nelerdir?",
+            "answer": "Satranç, Monopoly, Catan ve Scrabble gibi oyunlarımız oldukça popülerdir."
+          },
+          {
+            "question": "E-spor turnuvalarına nasıl katılabilirim?",
+            "answer": "Turnuva detayları ve kayıt formu web sitemizde yer almaktadır."
+          },
+          {
+            "question": "Sanal gerçeklik oyunları için ekipman kiralıyor musunuz?",
+            "answer": "Evet, VR oyun ekipmanlarını günlük veya haftalık olarak kiralayabilirsiniz."
+          },
+          {
+            "question": "Kaçış odası oyunları nerede bulunuyor?",
+            "answer": "Kaçış odası oyunlarımız şehrin farklı bölgelerinde mevcuttur, rezervasyon için web sitemizi ziyaret edebilirsiniz."
+          },
+          {
+            "question": "Çocuklar için eğitici oyunlarınız var mı?",
+            "answer": "Evet, çocuklara yönelik eğitici ve interaktif oyun seçeneklerimiz bulunmaktadır."
+          }
+        ]
+      },
+      {
+        "category": "Hobi ve El Sanatları",
+        "questions": [
+          {
+            "question": "Ahşap işçiliği kurslarınız var mı?",
+            "answer": "Evet, ahşap oyma ve marangozluk üzerine kurslarımız bulunmaktadır."
+          },
+          {
+            "question": "Origami malzemelerini nereden temin edebilirim?",
+            "answer": "Origami malzemelerini mağazamızdan veya online platformumuzdan satın alabilirsiniz."
+          },
+          {
+            "question": "Seramik yapımı için başlangıç seti satıyor musunuz?",
+            "answer": "Evet, seramik yapımı için gerekli tüm malzemeleri içeren başlangıç setlerimiz mevcuttur."
+          },
+          {
+            "question": "Hobi atölyelerinizde hangi aktiviteler var?",
+            "answer": "Boyama, dikiş, örgü ve el yapımı takı gibi çeşitli aktiviteler düzenlenmektedir."
+          },
+          {
+            "question": "Resim kursları ne kadar sürüyor?",
+            "answer": "Resim kurslarımız genellikle 8 hafta sürmektedir."
+          }
+        ]
+      },
+      {
+        "category": "Bilim ve Teknoloji",
+        "questions": [
+          {
+            "question": "Kodlama kurslarınız hangi seviyelere uygun?",
+            "answer": "Kodlama kurslarımız başlangıç, orta ve ileri seviyeler için uygundur."
+          },
+          {
+            "question": "3D yazıcıları nerede kullanabilirim?",
+            "answer": "Maker atölyelerimizde 3D yazıcıları kullanabilirsiniz."
+          },
+          {
+            "question": "Robotik setleriniz hangi yaş grupları için uygun?",
+            "answer": "Robotik setlerimiz 8 yaş ve üzeri çocuklar için uygundur."
+          },
+          {
+            "question": "Bilim fuarlarına nasıl katılabilirim?",
+            "answer": "Bilim fuarlarına katılmak için başvuru formumuzu doldurabilirsiniz."
+          },
+          {
+            "question": "Yapay zeka kursları düzenliyor musunuz?",
+            "answer": "Evet, yapay zeka ve makine öğrenimi üzerine kurslarımız bulunmaktadır."
+          }
+        ]
+      },
+      {
+        "category": "Çevre ve Doğa",
+        "questions": [
+          {
+            "question": "Ağaç dikme etkinliklerine nasıl katılabilirim?",
+            "answer": "Web sitemiz üzerinden kayıt olarak ağaç dikme etkinliklerine katılabilirsiniz."
+          },
+          {
+            "question": "Geri dönüşüm kampanyalarınız var mı?",
+            "answer": "Evet, farklı bölgelerde düzenlenen geri dönüşüm kampanyalarımız bulunmaktadır."
+          },
+          {
+            "question": "Doğa yürüyüşü turlarınız nerede düzenleniyor?",
+            "answer": "Doğa yürüyüşü turlarımız genellikle milli parklarda ve ormanlık alanlarda düzenlenmektedir."
+          },
+          {
+            "question": "Yenilenebilir enerji kursları sunuyor musunuz?",
+            "answer": "Evet, güneş ve rüzgar enerjisi üzerine yenilenebilir enerji kurslarımız vardır."
+          },
+          {
+            "question": "Hayvan haklarıyla ilgili projeleriniz var mı?",
+            "answer": "Evet, hayvan haklarıyla ilgili birçok proje ve kampanyamız bulunmaktadır."
+          }
+        ]
+      },
+      {
+        "category": "Yaşam Tarzı ve Trendler",
+        "questions": [
+          {
+            "question": "Minimalist yaşam tarzına nasıl geçiş yapabilirim?",
+            "answer": "Adım adım rehberlerimiz ve önerilerimizle minimalizme kolayca geçiş yapabilirsiniz."
+          },
+          {
+            "question": "Sağlıklı yaşam için hangi alışkanlıkları önerirsiniz?",
+            "answer": "Düzenli egzersiz, sağlıklı beslenme ve yeterli uyku temel alışkanlıklar arasında yer alır."
+          },
+          {
+            "question": "2024 moda trendleri nelerdir?",
+            "answer": "2024 moda trendlerini blog yazılarımızda bulabilirsiniz."
+          },
+          {
+            "question": "Ev dekorasyonu için hangi renkler popüler?",
+            "answer": "Bu yıl pastel tonlar ve doğal renkler oldukça popüler."
+          },
+          {
+            "question": "Sürdürülebilir yaşam hakkında bilgi alabilir miyim?",
+            "answer": "Evet, sürdürülebilir yaşam rehberimizle bilgi alabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Fotoğrafçılık",
+        "questions": [
+          {
+            "question": "Yeni başlayanlar için hangi kameraları önerirsiniz?",
+            "answer": "Yeni başlayanlar için kompakt ve kolay kullanılabilir kameralar öneriyoruz."
+          },
+          {
+            "question": "Fotoğrafçılık kurslarınız var mı?",
+            "answer": "Evet, temel ve ileri düzey fotoğrafçılık kurslarımız bulunmaktadır."
+          },
+          {
+            "question": "Drone çekim hizmeti sunuyor musunuz?",
+            "answer": "Evet, profesyonel drone çekim hizmetlerimiz mevcuttur."
+          },
+          {
+            "question": "Hangi lens türleri portre çekim için idealdir?",
+            "answer": "Portre çekimleri için 50mm ve 85mm lensler idealdir."
+          },
+          {
+            "question": "Stüdyo ekipmanları kiralayabilir miyim?",
+            "answer": "Evet, fotoğraf stüdyosu ekipmanlarını günlük veya saatlik olarak kiralayabilirsiniz."
+          }
+        ]
+      },    
+      {
+        "category": "Hayvan Bakımı ve Ürünleri",
+        "questions": [
+          {
+            "question": "Evcil hayvanlar için hangi tür mamalar mevcut?",
+            "answer": "Köpek, kedi, kuş ve kemirgenler için yaş ve kuru mamalarımız bulunmaktadır."
+          },
+          {
+            "question": "Veteriner hizmeti sunuyor musunuz?",
+            "answer": "Evet, haftanın belirli günlerinde veteriner hekimimiz tarafından sağlık kontrolü ve aşı hizmetleri sağlanmaktadır."
+          },
+          {
+            "question": "Evcil hayvan oteli hizmetiniz var mı?",
+            "answer": "Evet, seyahatleriniz sırasında evcil hayvanlarınıza güvenli bir ortam sunan otel hizmetimiz bulunmaktadır."
+          },
+          {
+            "question": "Hangi tür hayvan aksesuarlarını satıyorsunuz?",
+            "answer": "Tasmalar, oyuncaklar, yataklar ve daha pek çok hayvan aksesuarı ürün yelpazemizde mevcuttur."
+          },
+          {
+            "question": "Hayvan tüy dökülmesini azaltan ürünleriniz var mı?",
+            "answer": "Evet, özel formüllü tüy dökülmesini azaltıcı mamalar ve bakım ürünleri sunuyoruz."
+          }
+        ]
+      },
+      {
+        "category": "Kültür ve Sanat",
+        "questions": [
+          {
+            "question": "Tiyatro etkinlik biletlerini nereden satın alabilirim?",
+            "answer": "Tiyatro biletlerinizi web sitemizden veya anlaşmalı satış noktalarımızdan temin edebilirsiniz."
+          },
+          {
+            "question": "Resim sergileriniz hangi günlerde açık?",
+            "answer": "Resim sergilerimiz haftanın her günü sabah 10:00 ile akşam 18:00 saatleri arasında ziyarete açıktır."
+          },
+          {
+            "question": "Kültür merkezinizde düzenlenen atölyeler nelerdir?",
+            "answer": "Fotoğrafçılık, resim, heykel, yazarlık ve daha birçok atölye düzenlenmektedir."
+          },
+          {
+            "question": "Sanat eserlerini satın alabilir miyim?",
+            "answer": "Evet, galerimizdeki eserlerin büyük bir kısmı satışa açıktır. Detaylı bilgi için bizimle iletişime geçebilirsiniz."
+          },
+          {
+            "question": "Müze giriş ücretleri ne kadar?",
+            "answer": "Müze giriş ücretleri yetişkinler için 50 TL, öğrenciler için 25 TL'dir."
+          }
+        ]
+      },
+      {
+        "category": "Doğa ve Çevre",
+        "questions": [
+          {
+            "question": "Gönüllü çevre temizliği etkinlikleriniz var mı?",
+            "answer": "Evet, düzenli olarak gönüllü çevre temizliği etkinlikleri düzenliyoruz."
+          },
+          {
+            "question": "Yerel ekosistemler hakkında bilgi alabilir miyim?",
+            "answer": "Web sitemizde yerel ekosistemlere dair detaylı bilgiler bulabilirsiniz."
+          },
+          {
+            "question": "Ağaç dikim kampanyalarınıza nasıl katılabilirim?",
+            "answer": "Ağaç dikim kampanyalarımıza kayıt formumuzu doldurarak katılabilirsiniz."
+          },
+          {
+            "question": "Geri dönüşüm konusunda hangi önerileriniz var?",
+            "answer": "Atıkları türlerine göre ayırmak ve yerel geri dönüşüm merkezlerine teslim etmek iyi bir başlangıçtır."
+          },
+          {
+            "question": "Doğa yürüyüşleri için rehberlik hizmetiniz var mı?",
+            "answer": "Evet, doğa yürüyüşleri için profesyonel rehberlik hizmeti sunuyoruz."
+          }
+        ]
+      },
+      {
+        "category": "Emlak ve Gayrimenkul",
+        "questions": [
+          {
+            "question": "Satılık veya kiralık evlerinizi nereden görebilirim?",
+            "answer": "Tüm ilanlarımızı web sitemiz ve mobil uygulamamızda bulabilirsiniz."
+          },
+          {
+            "question": "Emlak danışmanlık hizmeti sunuyor musunuz?",
+            "answer": "Evet, alanında uzman emlak danışmanlarımız hizmetinizdedir."
+          },
+          {
+            "question": "Ev alım-satım işlemlerinde hukuki destek sağlıyor musunuz?",
+            "answer": "Evet, tüm işlemlerinizde hukuki danışmanlık hizmeti sunuyoruz."
+          },
+          {
+            "question": "Yeni projeleriniz nerede inşa ediliyor?",
+            "answer": "Web sitemizde tüm yeni projelerimizin lokasyon ve detay bilgilerine ulaşabilirsiniz."
+          },
+          {
+            "question": "Tapu işlemleri için nasıl destek alabilirim?",
+            "answer": "Tapu işlemleri için ofislerimizden veya müşteri hizmetlerimizden destek alabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Tarih ve Arkeoloji",
+        "questions": [
+          {
+            "question": "Kazı alanlarını ziyaret etmek mümkün mü?",
+            "answer": "Evet, belirli kazı alanları rehber eşliğinde ziyaret edilebilmektedir."
+          },
+          {
+            "question": "Tarihi eserler hakkında bilgi alabilir miyim?",
+            "answer": "Müze ve arkeoloji rehberlerimizden detaylı bilgi edinebilirsiniz."
+          },
+          {
+            "question": "Arkeolojik seminerlere nasıl katılabilirim?",
+            "answer": "Seminerlerimize online kayıt formu doldurarak katılabilirsiniz."
+          },
+          {
+            "question": "Koleksiyonlarınızda hangi dönemlere ait eserler bulunuyor?",
+            "answer": "Koleksiyonlarımızda Antik Çağ, Orta Çağ ve Osmanlı dönemlerine ait eserler bulunmaktadır."
+          },
+          {
+            "question": "Arkeolojik kazılara gönüllü katılım mümkün mü?",
+            "answer": "Evet, belirli kazı projelerine gönüllü olarak katılabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Yaşam Koçluğu ve Motivasyon",
+        "questions": [
+          {
+            "question": "Motivasyon seminerleriniz hangi konuları kapsıyor?",
+            "answer": "Stres yönetimi, hedef belirleme ve zaman yönetimi gibi konular ele alınmaktadır."
+          },
+          {
+            "question": "Online birebir yaşam koçluğu hizmetiniz var mı?",
+            "answer": "Evet, birebir yaşam koçluğu hizmetimizi online olarak sunuyoruz."
+          },
+          {
+            "question": "Kariyer planlaması için nasıl destek alabilirim?",
+            "answer": "Uzmanlarımızla yapacağınız bireysel görüşmelerde kariyer planlaması desteği alabilirsiniz."
+          },
+          {
+            "question": "Motivasyon artırıcı kitaplar öneriyor musunuz?",
+            "answer": "Evet, web sitemizde motivasyon artırıcı kitap listemizi bulabilirsiniz."
+          },
+          {
+            "question": "Hedef belirleme atölyelerine nasıl kayıt olabilirim?",
+            "answer": "Atölyelerimize web sitemizden kayıt olabilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Kişisel Finans ve Yatırım",
+        "questions": [
+          {
+            "question": "Bütçe yönetimi ile ilgili hangi kaynakları öneriyorsunuz?",
+            "answer": "Web sitemizde bütçe yönetimi konusunda rehberler ve videolar mevcuttur."
+          },
+          {
+            "question": "Hangi yatırım araçlarını tavsiye ediyorsunuz?",
+            "answer": "Yatırım hedeflerinize göre farklı araçlar önerebiliriz; detaylar için danışmanlarımızla görüşebilirsiniz."
+          },
+          {
+            "question": "Tasarruf yapma yöntemleri hakkında bilgi alabilir miyim?",
+            "answer": "Evet, tasarruf yöntemleriyle ilgili rehberimize online olarak erişebilirsiniz."
+          },
+          {
+            "question": "Borsa yatırımı için başlangıç rehberiniz var mı?",
+            "answer": "Evet, borsa yatırımı için hazırladığımız başlangıç rehberimize web sitemizden ulaşabilirsiniz."
+          },
+          {
+            "question": "Kredi ve borç yönetimi hakkında nasıl destek alabilirim?",
+            "answer": "Müşteri temsilcilerimiz kredi ve borç yönetimi konusunda size rehberlik edebilir."
+          }
+        ]
+      },
+      {
+        "category": "Müzik ve Enstrümanlar",
+        "questions": [
+          {
+            "question": "Hangi tür müzik kursları sunuyorsunuz?",
+            "answer": "Piyano, gitar, keman ve şan gibi çeşitli müzik kurslarımız bulunmaktadır."
+          },
+          {
+            "question": "Enstrüman satın alırken nelere dikkat etmeliyim?",
+            "answer": "İhtiyacınıza uygun enstrüman boyutunu ve malzeme kalitesini seçmelisiniz."
+          },
+          {
+            "question": "Çocuklar için müzik eğitimleriniz var mı?",
+            "answer": "Evet, çocuklara özel başlangıç düzeyinde müzik eğitimlerimiz bulunmaktadır."
+          },
+          {
+            "question": "Online müzik derslerine nasıl katılabilirim?",
+            "answer": "Online müzik derslerimize kayıt yaptırarak katılabilirsiniz."
+          },
+          {
+            "question": "Kiralık enstrüman hizmetiniz var mı?",
+            "answer": "Evet, kısa veya uzun süreli kiralık enstrüman hizmetimiz mevcuttur."
+          }
+        ]
+      },
+      {
+        "category": "Tarım ve Bahçecilik",
+        "questions": [
+          {
+            "question": "Hangi tür tohumları satıyorsunuz?",
+            "answer": "Sebze, meyve, çiçek ve tahıl tohumları çeşitlerimiz mevcuttur."
+          },
+          {
+            "question": "Bitki hastalıklarına karşı hangi ilaçları öneriyorsunuz?",
+            "answer": "Bitki türüne ve hastalığın türüne bağlı olarak çeşitli organik ve kimyasal ilaçlarımız bulunmaktadır."
+          },
+          {
+            "question": "Bahçe mobilyalarınız dayanıklı mı?",
+            "answer": "Evet, tüm bahçe mobilyalarımız hava koşullarına dayanıklı malzemelerden üretilmiştir."
+          },
+          {
+            "question": "Toprak analizi hizmetiniz var mı?",
+            "answer": "Evet, profesyonel toprak analizi hizmeti sunarak size en uygun ekim koşullarını belirliyoruz."
+          },
+          {
+            "question": "Seracılık malzemeleri satıyor musunuz?",
+            "answer": "Evet, sera naylonları, sulama sistemleri ve ısıtma cihazları gibi birçok seracılık malzemesi temin edebilirsiniz."
+          }
+        ]
+      },
+      {
+        "category": "Genel Destek",
+        "questions": [
+          {
+            "question": "Şifremi unuttum, nasıl sıfırlayabilirim?",
+            "answer": "Şifrenizi sıfırlamak için 'Şifremi Unuttum' bağlantısını kullanabilir veya müşteri hizmetlerimize başvurabilirsiniz."
+          },
+          {
+            "question": "Faturalarıma nasıl ulaşabilirim?",
+            "answer": "Faturalarınıza online portalımızdan veya mobil uygulamamızdan erişebilirsiniz."
+          },
+          {
+            "question": "PIN / PUK kodları nedir, nasıl öğrenebilirim?",
+            "answer": "PIN kodu hattınızın güvenliği için kullanılan 4 haneli bir şifredir. PUK kodunuzu ise hattınız bloke olduğunda kullanabilirsiniz. Bu kodları müşteri hizmetlerimizden öğrenebilirsiniz."
+          },
+          {
+            "question": "E-posta hesabımda oturum açamıyorum, ne yapmalıyım?",
+            "answer": "E-posta hesabınızla ilgili sorun yaşıyorsanız, 'Şifremi Unuttum' seçeneğini kullanarak şifrenizi sıfırlayabilir veya teknik destek ekibimize ulaşabilirsiniz."
+          },
+          {
+            "question": "Hangi çalışma saatlerinde destek alabilirim?",
+            "answer": "Müşteri hizmetlerimiz haftanın 7 günü, 09:00-21:00 saatleri arasında hizmet vermektedir."
+          },
+          {
+            "question": "Canlı destek hattınıza nasıl ulaşabilirim?",
+            "answer": "Web sitemizdeki canlı destek butonuna tıklayarak veya mobil uygulamamız üzerinden canlı destek hattımıza bağlanabilirsiniz."
+          }
+        ]
+      }
+    ]
+}
+  
